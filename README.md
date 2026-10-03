@@ -1369,6 +1369,7 @@
 | [Nutritionix](https://developer.nutritionix.com/) | Worlds largest verified nutrition database | `apiKey` | Unknown |
 | [Open Data NHS Scotland](https://www.opendata.nhs.scot) | Medical reference data and statistics by Public Health Scotland | No | Unknown |
 | [Open Disease](https://disease.sh/) | API for Current cases and more stuff about COVID-19 and Influenza | No | Yes |
+| [Open Mindfulness](https://api.theholisticcare.com) | Structured mindfulness games, free guided practices, glossary, research and public resources | No | Yes |
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | `apiKey` | Unknown |
 | [Psychologie et Sérénité](https://psychologieetserenite.com/api) | French psychology articles metadata and validated psychological tests catalog | No | Yes |
 | [Urgences Québec](https://sante.handled.tools) | Hourly crowding for the 120 emergency rooms of Quebec, with walk-in clinics and surgery delays | No | Yes |
